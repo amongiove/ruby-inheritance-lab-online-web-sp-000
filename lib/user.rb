@@ -1,5 +1,4 @@
 class User
-  attr_accessor :name
 
   def initialize
     first_name
@@ -11,7 +10,7 @@ class User
   end
 
   def last_name
-    last_name 
+    last_name
   end
 
 end
