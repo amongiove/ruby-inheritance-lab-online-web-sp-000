@@ -10,7 +10,7 @@ class User
     first_name = @name.split[0]
   end
 
-  def last_name(name)
+  def last_name
     last_name = @name.split[1]
   end
 
