@@ -3,6 +3,8 @@ class User
 
   def initialize(name)
     @name = name
+    first_name
+    last_name
   end
 
   def first_name(name)
