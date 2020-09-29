@@ -6,7 +6,7 @@ class User
     last_name
   end
 
-  def first_name(name)
+  def first_name
     first_name = @name.split[0]
   end
 
