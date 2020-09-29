@@ -1,8 +1,7 @@
 class User
   attr_accessor :name
 
-  def initialize(name)
-    @name = name
+  def initialize
     first_name
     last_name
   end
